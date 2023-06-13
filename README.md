@@ -51,7 +51,7 @@
 
 ## Output:
 
-![output](/Output_exp1_empd1.png)
+![output](/Output_exp1_empd.png)
 
 ### Name: Aravindhnath TR
 ### Register Number: 212222100005
